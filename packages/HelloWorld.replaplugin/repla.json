@@ -1,0 +1,11 @@
+{
+  "name": "HelloWorld",
+  "command": "hello_world.rb",
+  "uuid": "9DF1F4D6-16BA-4D18-88D2-155CF262035F",
+  "editable": false,
+  "enableDebugMode": true,
+  "autoShowLog": true,
+  "transparentBackground": true,
+  "usesEnvironment": true
+}
+
