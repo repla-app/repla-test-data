@@ -1,0 +1,10 @@
+{
+  "name": "TestLog",
+  "command": "run.sh",
+  "uuid": "7A95638E-798D-437C-9404-08E7DC68655B",
+  "editable": false,
+  "debugModeEnabled": false,
+  "autoShowLog": false,
+  "transparentBackground": false,
+  "usesEnvironment": false
+}
