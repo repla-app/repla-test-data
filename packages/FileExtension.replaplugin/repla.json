@@ -1,5 +1,6 @@
 {
   "name": "FileExtension",
+  "command": "cat.sh",
   "uuid": "C4B09ED5-ED60-44FF-A0BB-43EF6F8AF569",
   "fileExtensions": ["txt", "html"]
 }
