@@ -1,0 +1,8 @@
+{
+  "name": "PromptInterrupt",
+  "command": "cat.sh",
+  "uuid": "2565A8F0-56E1-4CE4-AA35-DBDAEB720443",
+  "editable": false,
+  "promptInterrupt": true
+}
+
