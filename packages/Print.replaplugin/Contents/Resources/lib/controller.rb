@@ -1,5 +1,5 @@
 require_relative 'view'
-require_relative '../../../../../repla-ruby/lib/repla/lib/escape'
+require_relative '../../../../../../repla-ruby/lib/repla/lib/escape'
 
 module Repla
   # Print module
