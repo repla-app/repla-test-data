@@ -5,9 +5,9 @@
 
 require 'test/unit'
 
-require_relative '../../../../../../repla'
+require_relative '../../../../../repla-ruby/lib/repla'
 require_relative 'constants'
-require_relative '../../../../../lib/escape'
+require_relative '../../../../../repla-ruby/lib/repla/lib/escape'
 
 # Test environment
 class TestEnviroment < Test::Unit::TestCase

@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby --disable-gems
 
-require_relative '../../../../../../repla'
+require_relative '../../../../../repla-ruby/lib/repla'
 require_relative 'lib/controller'
 
 controller = Repla::Print::Controller.new
